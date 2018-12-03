@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity Demo</string>
+    <string name="welcomeText">Welcome To layout Demo</string>
+    <string name="open_toast">Open Toast</string>
+    <string name="new_activity">Open New Activity</string>
+    <string name="this_is_new_activity">This is new activity</string>
+</resources>
